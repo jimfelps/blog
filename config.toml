@@ -1,13 +1,13 @@
 ## Basic Configuration
-baseurl = "https://example.com/"
+baseurl = "/"
 languageCode = "en"
 
-title = "Title"
+title = "Jim Felps | Blog"
 theme = "hyde-hyde"
 
 ## Hugo Built-in Features
 # disqusShortname = "your-disqus-shortname"
-# googleAnalytics = "your-google-analytics-id"
+ googleAnalytics = "UA-172509007-1"
 # enableRobotsTXT = true
 
 # summarylength = 30
@@ -16,22 +16,22 @@ theme = "hyde-hyde"
 
 ## Site Settings
 [params]
-    author = "Author"
-    title = "Title"
+    #author = "Author"
+    title = "Jim Felps"
     # description = "..."
-    authorimage = "/img/hugo.png"
+    authorimage = "/img/profile.jpg"
     dateformat = "Jan 2, 2006"
 
     # sidebar, copyright & license
-    copyright = "htr3n"
-    since = 2019
+    copyright = "Jim Felps"
+    since = 2020
     license = "CC BY-SA 4.0"
     licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
-    showBuiltWith = true
+    showBuiltWith = false
 
     # https://highlightjs.org
     highlightjs = true
-    highlightjsstyle = "github"
+    highlightjsstyle = "darcula"
     
     # please choose either GraphComment or Disqus or Utterances
     #GraphCommentId = "..."
@@ -44,16 +44,16 @@ theme = "hyde-hyde"
 
 ## Social Accounts
 [params.social]
-    github = "<username>"
-    instagram = "<username>"
-    xing = "<username>"
-    linkedin = "<username>"
-    twitter = "<username>"
-    facebook = "<username>"
-    stackoverflow = "<username>"
-    telegram = "<username>"
+    github = "https://github.com/jimfelps"
+    #instagram = "<username>"
+    #xing = "<username>"
+    linkedin = "https://www.linkedin.com/in/jim-felps-4539a924/"
+    twitter = "https://twitter.com/Calvinchoice"
+    #facebook = "<username>"
+    #stackoverflow = "<username>"
+    #telegram = "<username>"
     # orcid = "<xxxx-xxxx-xxxx-xxxx>"
-    email = "your-email@example.com"
+    email = "jamesfelps@gmail.com"
     # gravatar = "your-email@example.com"
 
 ## Main Menu
