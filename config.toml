@@ -16,10 +16,10 @@ theme = "hyde-hyde"
 
 ## Site Settings
 [params]
-    #author = "Author"
-    title = "Jim Felps"
+    author = "Jim Felps"
+    #title = ""
     # description = "..."
-    authorimage = "/img/profile.jpg"
+    authorimage = "/img/IMG_0893.jpg"
     dateformat = "Jan 2, 2006"
 
     # sidebar, copyright & license
