@@ -2,7 +2,7 @@
 baseurl = "/"
 languageCode = "en"
 
-title = "Jim Felps | Blog"
+title = "Jim Felps"
 theme = "hyde-hyde"
 
 ## Hugo Built-in Features
