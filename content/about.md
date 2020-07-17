@@ -2,7 +2,7 @@
 title: About Jim
 ---
 
-![profile](/static/img/profile.jpg)
+![profile](static/img/profile.jpg)
 
 I'm currently a financial analyst at Bluescope Buildings North America supporting the enigneering and sales teams by preparing monthly and ad hoc analysis by delivering necessary reporting to guide strategy decisions. I spent the past year designing and implementing a sales and operations planning group and currently lead the bi-monthly meeting with a cross-functional team of business leaders with the purpose of connecting the sales team with production leaders to algin demand capacity with market indicators.
 
